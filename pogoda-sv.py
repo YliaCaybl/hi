@@ -66,3 +66,8 @@ except requests.RequestException as e:
     print(f"Ошибка при запросе данных: {e}")
 except Exception as e:
     print(f"Произошла ошибка: {e}")
+
+
+
+
+ak;lughkalwur iouvt qlwiuthlkq, ueygukaerguiayh
